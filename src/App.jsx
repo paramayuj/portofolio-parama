@@ -15,7 +15,7 @@ import {
   Terminal
 } from 'lucide-react';
 
-import fotoSaya from './assets/ayu.jpg';
+import fotoprofil from './assets/paramayu.jpg';
 import project01 from './assets/prj01.png';
 import project02 from './assets/prj02.png';
 import project03 from './assets/prj03.png';
@@ -34,7 +34,7 @@ const PORTFOLIO_DATA = {
   email: "paramajanitra04@gmail.com",
   linkedin: "https://www.linkedin.com/in/paramaayu",
   phone: "081384274661",
-  profileImage: fotoSaya,
+  profileImage: fotoprofil,
   about: "Saya Parama Ayu, seorang freshgraduate di Universitas Bina Sarana Informatika dengan antusiasme tinggi di bidang Data Analyst. Saya bersemangat menerjemahkan data menjadi solusi melalui analisis yang akurat, kreativitas dalam memecahkan masalah, dan penyajian wawasan yang mudah dipahami.",
   skills: [
     {
