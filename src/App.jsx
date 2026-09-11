@@ -30,7 +30,7 @@ import project09 from './assets/prj09.png';
 const PORTFOLIO_DATA = {
   name: "Rr. Parama Ayu Janitra",
   nickname: "Parama Ayu",
-  role: "Data Analyst Enthusiast",
+  role: "Data Analyst",
   email: "paramajanitra04@gmail.com",
   linkedin: "https://www.linkedin.com/in/paramaayu",
   phone: "081384274661",
